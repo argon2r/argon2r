@@ -14,14 +14,6 @@
 - 🎨 Interested in UI/UX design — Figma, XML, clean interfaces
 
 ---
-
-🚀 **Featured Projects**
-- [AI Coding Agent](https://github.com/argon2r/ai-coding-agent): AI-powered coding assistant for enhanced developer productivity
-- [Clove](https://github.com/argon2r/clove): Clove is an Android app offering guided meditation sessions and soothing sleep sounds to help users relax, focus, and improve sleep quality.
-- [Android Shopping List App](https://github.com/argon2r/Android-Shopping-List-App): Simple, elegant shopping list manager
-
----
-
 ⚡ **Tech Stack & Tools**
 - **Languages:** C, C++, Python, Kotlin, Go, SQL
 - **Frameworks/Tools:** Jetpack Compose, Linux, Docker, Retrofit, Android Studio, VS Code, Git, GitHub
